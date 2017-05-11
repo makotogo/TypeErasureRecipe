@@ -1,7 +1,5 @@
-package com.makotojava.learn.recipe.typeerasure;
-
 /*
- * Copyright 2016 Makoto Consulting Group, Inc.
+ * Copyright 2017 Makoto Consulting Group, Inc.
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -16,6 +14,8 @@ package com.makotojava.learn.recipe.typeerasure;
  * limitations under the License.
  *
  */
+package com.makotojava.learn.recipe.typeerasure;
+
 public class Person {
 
   public Person(String name, int age) {
